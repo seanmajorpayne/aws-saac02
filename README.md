@@ -1,6 +1,6 @@
 # aws-saac02
 
-While working through the SAAC02 AWS Solutions Architect certification course, I am recreating all of the instructor's examples in Terraform to kill two birds with one stone.
+While working through the SAAC02 AWS Solutions Architect certification course, rather than just using the AWS Console as the instructor is doing, I am working through the examples in Terraform, killing two birds with one stone.
 
 ## Useful Commands
 
